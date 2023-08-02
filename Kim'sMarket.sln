@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{93779562-1498-934D-73C0-5922ABBCE3B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{AC39F89E-4E98-EE80-1413-A7C5C4FE5CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.UniversalToonShader.Urp.Editor", "Unity.UniversalToonShader.Urp.Editor.csproj", "{E28843AC-E69F-98C4-B409-88584B35B22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93779562-1498-934D-73C0-5922ABBCE3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93779562-1498-934D-73C0-5922ABBCE3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93779562-1498-934D-73C0-5922ABBCE3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93779562-1498-934D-73C0-5922ABBCE3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC39F89E-4E98-EE80-1413-A7C5C4FE5CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39F89E-4E98-EE80-1413-A7C5C4FE5CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC39F89E-4E98-EE80-1413-A7C5C4FE5CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC39F89E-4E98-EE80-1413-A7C5C4FE5CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28843AC-E69F-98C4-B409-88584B35B22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28843AC-E69F-98C4-B409-88584B35B22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28843AC-E69F-98C4-B409-88584B35B22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28843AC-E69F-98C4-B409-88584B35B22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

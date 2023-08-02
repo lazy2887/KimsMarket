@@ -1,0 +1,572 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_2021_3_23
+-define:UNITY_2021_3
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"C:/Program Files/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"C:/Users/z440/Documents/GitHub/Kim'sMarket/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
+-r:"C:/Users/z440/Documents/GitHub/Kim'sMarket/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
+-r:"C:/Users/z440/Documents/GitHub/Kim'sMarket/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
+-r:"C:/Users/z440/Documents/GitHub/Kim'sMarket/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
+-r:"C:/Users/z440/Documents/GitHub/Kim'sMarket/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/PPv2URPConverters.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Burst.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Mathematics.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Mathematics.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Universal.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Searcher.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.ShaderGraph.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.UniversalToonShader.Urp.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Core.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Flow.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualScripting.State.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VisualStudio.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/AleksandrGorodiski/PerfectHotel/Plugins/Joystick/Scripts/Joystick.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Camera/CameraController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/AreaConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/CleanerConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/ElevatorConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/GameConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/ReceptionConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/RoomConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/ToiletConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Config/UtilityConfig.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Inject/Context.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Inject/Inject.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Inject/Injector.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Observer/IObserver.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Observer/Observable.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/OneListener.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/StateManager/State.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/StateManager/StateManager.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/Timer.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/UI/BehaviourComponent.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/UI/BehaviourWithModel.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Core/UI/Mediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Domain/GameModel.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/GameConstants.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/GameStartBehaviour.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/CashController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/CashPileController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/CashPileView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/CashView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/States/CashFlyToPileState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/States/CashFlyToPlayerState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/States/CashIdleState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Cash/States/CashState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Core/Module.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/AreaController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/AreaView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/State/AreaInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/State/AreaPurchasedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/State/AreaReadyToPurchaseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/State/AreaState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Area/State/AreaWaitForLevelState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/CleanerController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/CleanerView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerCleaningState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerHiddenState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerIdleState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerReadyToPurchaseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerUpdateState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerWalkHomeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerWalkState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Cleaner/States/CleanerWalkToItemState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/ConstructionItem/ConstructionInsideView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/ConstructionItem/ConstructionItemView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/ConstructionItem/HotelWallView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/ElevatorController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/ElevatorView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorHiddenState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorNoHotelSceneState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorPurchasedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorReadyToPurchaseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Elevator/States/ElevatorWaitForLevelState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemAimView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemFillBarView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemReusableView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemUtilityView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Item/ItemView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/LineController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Reception/ReceptionController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Reception/ReceptionView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Reception/States/ReceptionIdleState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Reception/States/ReceptionState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/RoomController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/RoomView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomAvailableState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomHiddenState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomOccupiedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomReadyToPurchaseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomUpdateState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Room/States/RoomUsedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/States/ToiletHiddenState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/States/ToiletInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/States/ToiletPurchasedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/States/ToiletReadyToPurchaseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/States/ToiletState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/ToiletController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Toilet/ToiletView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/States/UtilityHiddenState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/States/UtilityInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/States/UtilityPurchasedState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/States/UtilityState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/UtilityController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Entity/Utility/UtilityView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/HealthBarView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Inventory/InventoryController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Inventory/InventoryView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Inventory/States/InventoryFlyState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Inventory/States/InventoryState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/LevelView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerCleaningState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerElevatorState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerGetInventoryState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerIdleState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerItemState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerOnItemState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerPassInventoryState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerPauseState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerReceptionState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerStates/PlayerWalkState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Player/PlayerView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/RouteView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/CleanerUnitView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitIdleState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitInRoomState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitInToiletCabineState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitReceptionState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitWalkState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitWalkToRemoveState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitWalkToRoomState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/States/UnitWalkToToiletState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/UnitController.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Level/Units/UnitView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Logger/Log.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Managers/GameManager.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Managers/HudManager.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Managers/Storage.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/CashModule/CashModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/CashModule/CashModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/EntityModule/EntityModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/EntityModule/EntityModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/InventoryModule/InventoryModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/InventoryModule/InventoryModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/ReceptionModule/ReceptionModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/ReceptionModule/ReceptionModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UINotificationModule/UINotificationModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UINotificationModule/UINotificationModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UINotificationModule/UINotificationView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UISpritesModule/SpriteView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UISpritesModule/UISpritesModule.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Modules/UISpritesModule/UISpritesModuleView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/States/GameInitializeState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/States/GameLoadLevelState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/States/GamePlayState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/States/GameState.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/States/GameStateManager.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/ButtonAnimation.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Core/ComponentPoolFactory.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Core/IComponentPoolFactory.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/EntityHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/FillBarView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/GameView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/Core/BaseHud.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/DeveloperHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/DeveloperHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/GamePlayHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/GamePlayHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/HotelsHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/HotelsHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/HotelSlotView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/LevelUpHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/LevelUpHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/NotEnoughCashHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/NotEnoughCashHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/RoomSlotView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/RoomUpgradeHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/RoomUpgradeHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/SettingsHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/SettingsHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/SplashScreenHudMediator.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/UI/Hud/SplashScreenHudView.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/ActionExtentions.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/ArrayUtils.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/Easing.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/EnumUtils.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/ExtensionMethods.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/LineIntersection.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/ListUtils.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/MathUtil.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/ScreenshotMaker.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/StringUtil.cs"
+"Assets/AleksandrGorodiski/PerfectHotel/Scripts/Utils/TimerDelayer.cs"
+"Assets/TutorialInfo/Scripts/Readme.cs"
+-langversion:9.0
+
+/deterministic
+/optimize-
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+
+
+/additionalfile:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.AdditionalFile.txt"
